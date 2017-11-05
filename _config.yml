@@ -6,7 +6,7 @@
 title: BrenoHQ Blog
 subtitle: http://www.brenohq.com/
 description: Um blog sobre desenvolvimento, tecnologias livres e comunidades open-source.
-author: Breno Henrique de Lima Freitas
+author: Breno Henrique
 language: pt-BR
 timezone: America/Sao_Paulo
 
@@ -16,7 +16,7 @@ index_cover: cover-v1.2.0.jpg
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://brenohq.github.io/
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 
 # Directory
